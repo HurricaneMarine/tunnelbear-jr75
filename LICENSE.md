@@ -1,4 +1,4 @@
-
+TunnelBear exclusive Extension: IKEv2-support & auto-connect offers the most advanced TunnelBear extension, with IKEv2-support and auto-connect. Ideal for users who value privacy
 
 
 
